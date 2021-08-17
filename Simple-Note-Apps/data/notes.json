@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Belajar Node-JS",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt tempor erat, id ullamcorper ligula eleifend a. Morbi rutrum non orci ac posuere. Nulla et pellentesque odio. Sed orci massa, mollis in vulputate vel, consectetur porta mi. Fusce nec quam volutpat, dictum erat ac, consequat augue. Donec et luctus eros. Nullam efficitur arcu nisi, at congue magna congue ac. In sem augue, imperdiet eu augue ut, volutpat tristique felis. Mauris feugiat aliquet purus eget fringilla. Suspendisse venenatis mauris felis, vitae tristique ligula condimentum at.",
+    "id": "gZziTLlWjbWeEUFGU4K9V",
+    "createdAt": "2021-08-07T05:16:03.373Z",
+    "updatedAt": "2021-08-13T01:06:33.723Z",
+    "img": "ebda8cfa95c6e921392598335c74ae97"
+  },
+  {
+    "title": "Belajar Express 2",
+    "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "id": "42CrOv6ZwMKJFeLRbDfvR",
+    "createdAt": "2021-08-07T05:16:43.077Z",
+    "updatedAt": "2021-08-13T01:06:59.826Z",
+    "img": "d6279d7b01aa0690f1d048d64697d4fb"
+  },
+  {
+    "title": "Making notes APP",
+    "text": "Note app using nodeJS, in here i use sxpress framework to develop this simpe web apps, i hope u enjoy",
+    "id": "LogUOPRc6B5cGyBqEiu8P",
+    "createdAt": "2021-08-07T13:15:50.065Z",
+    "updatedAt": "2021-08-13T06:42:01.981Z",
+    "img": "fcadea2347670ecdb033fff5930c0ec7"
+  }
+]
